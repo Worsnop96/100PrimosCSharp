@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NumeroPrimo100/1.0.0": {
+        "runtime": {
+          "NumeroPrimo100.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NumeroPrimo100/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
